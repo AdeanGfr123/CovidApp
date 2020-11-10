@@ -1,0 +1,9 @@
+<resources>
+    <string name="nama_negara">nama negara</string>
+    <string name="currently">currently</string>
+    <string name="total_confirmed">total confirmed</string>
+    <string name="new_confirmed">new confirmed</string>
+    <string name="total_deaths">total deaths</string>
+    <string name="total_recovered">total recovered</string>
+    <string name="aplikasi_covid">Aplikasi Covid</string>
+</resources>
